@@ -78,9 +78,5 @@ Alongside my degree, I'm involved in collaborative projects that push me beyond 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
-
-<p align="center">
   <i>"Engineering isn't just about writing code—it's about designing systems that empower people."</i>
 </p>
