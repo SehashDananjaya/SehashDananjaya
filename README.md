@@ -33,11 +33,11 @@ Alongside my degree, I'm involved in collaborative projects that push me beyond 
 
 ### 🧰 Tech Stack Snapshot
 
-| 💻 Languages      | 🚀 Frameworks & Libraries       | 🔧 Tools & Platforms             |
-|------------------|---------------------------------|----------------------------------|
-| Java, R, HTML/CSS | Spring Boot, JavaFX, Bootstrap  | Git, GitHub, GitHub Actions      |
-| JavaScript (basic) | REST API, React (learning)     | IntelliJ, VS Code, RStudio       |
-| SQL, PL/pgSQL     | JPA, Hibernate, JasperReports   | MySQL, PostgreSQL, Netlify       |
+| 💻 Languages        | 🚀 Frameworks & Libraries        | 🔧 Tools & Platforms             |
+|--------------------|----------------------------------|----------------------------------|
+| Java, JavaScript, R, HTML/CSS | Spring Boot, JavaFX, Bootstrap, REST API | Git, GitHub, GitHub Actions      |
+| SQL, PL/pgSQL       | React (learning), JPA, Hibernate, JasperReports | IntelliJ, VS Code, RStudio       |
+|                    |                                  | MySQL, PostgreSQL, Netlify       |
 
 ---
 
