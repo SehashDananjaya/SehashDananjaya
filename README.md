@@ -1,75 +1,55 @@
-<h1 align="center">Hi there 👋, I'm Sehash Dananjaya </h1>
-<h3 align="center">Final Year BSc Software Engineering Student | Cardiff Metropolitan University, UK</h3>
+<h1 align="center">Hi there 👋, I'm Sehash Dananjaya</h1>
+<h3 align="center">Final Year BSc Software Engineering Undergraduate | Cardiff Metropolitan University</h3>
 
 <p align="center">
-🚀 Passionate about building enterprise-level solutions and bringing academic knowledge into real-world applications.
+🚀 Passionate about enterprise software, real-world engineering, and scalable system design.
 </p>
 
 ---
 
-### 🧭 Who Am I?
+### 👨‍💻 About Me
 
-I'm a final-year Software Engineering student at Cardiff Metropolitan University, UK — working at the intersection of education, enterprise software, and scalable backend systems. I enjoy turning complex problems into clean, maintainable code, and building projects that mirror real industry standards.
+I'm a final-year Software Engineering undergraduate at Cardiff Metropolitan University. I love building clean, reliable backend systems and bridging academic knowledge with real-world applications.
 
-Alongside my degree, I'm involved in collaborative projects that push me beyond the classroom: from standalone apps to backend systems built with event-driven architecture and advanced database design.
+My current focus is on enterprise architecture, AI integration, analytics, and cross-functional systems — gained through collaborative projects and continuous learning.
 
 ---
 
-### 🚧 What I’m Building Right Now
+### 🚧 What I’m Working On
 
 - 🎓 **Capstone Project: IntelliCare**  
-  A university-level enterprise application using **Advanced Java**, integrated **AI features**, and analytics built in **R**.  
-  It supports patient tracking, prescription logs, and predictive analysis for smart healthcare insights.
+  Smart healthcare platform with **Java**, **AI integration**, and **R-based analytics** for predictive health insights.
 
-- 🏗️ **Enterprise Architecture Projects**  
-  Real-world engineering contributions involving **event-driven logic**, **microservices**, **RESTful APIs**, and **modular systems**.  
-  Currently working on multi-user apps with **JavaFX**, secure role-based login, and scalable data storage.
+- ⚙️ **Enterprise Engineering**  
+  Designing systems using **event-driven architecture**, **JavaFX**, **REST APIs**, **secure multi-role access**, and **modular design**.  
+  Applied both **Layered Architecture** and **Event-Driven Microservices** to build scalable, real-world backend systems.
 
-- 🛠️ **Learning by Doing**  
-  Constantly building mini-projects to master topics like **Spring Boot**, **CI/CD with GitHub Actions**, **containerization**, and modern UI flows.  
-  I'm also experimenting with **React**, **charting libraries**, and **API integration** to create end-to-end prototypes.
-
----
-
-### 🧰 Tech Stack Snapshot
-
-| 💻 Languages        | 🚀 Frameworks & Libraries        | 🔧 Tools & Platforms             |
-|--------------------|----------------------------------|----------------------------------|
-| Java, JavaScript, R, HTML/CSS | Spring Boot, JavaFX, Bootstrap, REST API | Git, GitHub, GitHub Actions      |
-| SQL, PL/pgSQL       | React (learning), JPA, Hibernate, JasperReports | IntelliJ, VS Code, RStudio       |
-|                    |                                  | MySQL, PostgreSQL, Netlify       |
+- 🧪 **Learning in Action**  
+  Building full-stack apps using **Spring Boot**, **Angular**, **React**, and **CI/CD** pipelines with **GitHub Actions**.  
+  Exploring **Docker**, charting libraries, and frontend-backend integration.
 
 ---
 
-### 📁 Featured Projects
+### 🧰 Tech Snapshot
 
-- 🔐 **StaffFlow** – Enterprise-grade Employee Management System  
-  JavaFX-based app with a MySQL backend handling employee onboarding, leave tracking, and payroll automation.
-
-- 📦 **Inventra** – Smart Inventory API  
-  RESTful API built using **Spring Boot**, managing stock updates, purchase orders, low-inventory alerts, and supplier integrations.
-
-- 📊 **EduPulse** – Education Insights Dashboard  
-  Created with **R**, Excel, and advanced statistical techniques to explore patterns in public school funding, teacher pay, and SAT performance across U.S. regions.
-
-- 🧠 **IntelliCare** – Healthcare Prototype (FYP)  
-  Integrates **AI-driven prediction** for patient outcomes, treatment suggestions, and medication analytics with a secure admin and patient portal.
-
-- 🧩 **Enterprise Modules** – Team Contributions  
-  Backend logic & architectural planning using **event-driven flows**, **multi-layered design**, and **secure database management** — modeled for real enterprise needs.
+| 💻 Languages        | 🚀 Frameworks & Libraries               | 🔧 Tools & Platforms             |
+|--------------------|-----------------------------------------|----------------------------------|
+| Java, JavaScript, R, HTML/CSS | Spring Boot, JavaFX, Angular, React (learning), REST API | Git, GitHub, GitHub Actions      |
+| SQL, PL/pgSQL       | Bootstrap, JPA, Hibernate               | IntelliJ, VS Code, RStudio       |
+|                    |                                         | MySQL, PostgreSQL, Netlify       |
 
 ---
 
-### 📌 Current Goals
+### 🎯 Goals
 
-- 🌐 Build and deploy a full-stack project with CI/CD workflows  
-- ☁️ Learn Docker and host apps using containerized environments  
-- 🔍 Contribute to open-source projects in education or healthcare tech  
-- 🧠 Dive deeper into AI/ML-powered decision systems
+- 🌐 Build and deploy full-stack Angular/Spring Boot apps  
+- ☁️ Master containerization with Docker and cloud deployment  
+- 🤝 Contribute to open-source projects in education or enterprise software 
+- 🧠 Explore AI/ML-powered decision-making systems
 
 ---
 
-### 🧭 Let's Connect
+### 📬 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sehash-dananjaya)  
 - 📧 sehashdananjaya@gmail.com  
