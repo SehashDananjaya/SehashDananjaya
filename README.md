@@ -34,9 +34,8 @@ My current focus is on enterprise architecture, AI integration, analytics, and c
 
 | 💻 Languages        | 🚀 Frameworks & Libraries               | 🔧 Tools & Platforms             |
 |--------------------|-----------------------------------------|----------------------------------|
-| Java, JavaScript, R, HTML/CSS | Spring Boot, JavaFX, Angular, React (learning), REST API | Git, GitHub, GitHub Actions      |
-| SQL, PL/pgSQL       | Bootstrap, JPA, Hibernate               | IntelliJ, VS Code, RStudio       |
-|                    |                                         | MySQL, PostgreSQL, Netlify       |
+| Java, JavaScript, R, HTML/CSS | Spring Boot, JavaFX, Angular, React (learning), REST API |  IntelliJ, VS Code, RStudio     |
+| SQL, PL/pgSQL       | Bootstrap, JPA, Hibernate               |  MySQL, PostgreSQL, Netlify      |
 
 ---
 
