@@ -17,9 +17,6 @@ My current focus is on enterprise architecture, AI integration, analytics, and c
 
 ### 🚧 What I’m Working On
 
-- 🎓 **Capstone Project: IntelliCare**  
-  Smart healthcare platform with **Java**, **AI integration**, and **R-based analytics** for predictive health insights.
-
 - ⚙️ **Enterprise Engineering**  
   Designing systems using **event-driven architecture**, **JavaFX**, **REST APIs**, **secure multi-role access**, and **modular design**.  
   Applied both **Layered Architecture** and **Event-Driven Microservices** to build scalable, real-world backend systems.
